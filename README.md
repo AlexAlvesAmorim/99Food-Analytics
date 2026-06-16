@@ -1,6 +1,5 @@
-Olá me chamo Alex Alves, e esse é um fork do meu MAIN refatorado.
+Olá me chamo Alex Alves, e esse é uma ideia de um 99food analytics mais completo.
 
-Após um tempo de conhecimento e com o projeto do site Fabuloja já bem desenvolvido,
-resolvi fazer uma refatoração para melhora de funcionalidade e visual.
+Quem utiliza, sabe que ele não mostra algumas coisas que é padrão no Ifood.
 
-Tenho gostado mais desse.
+Vamos cair pra dentro.
